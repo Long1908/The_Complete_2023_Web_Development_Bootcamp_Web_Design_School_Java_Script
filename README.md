@@ -11,3 +11,4 @@ your new .js file.
 The data types are as usual: numbers, strings and booleans.
 <br />
 Saving data can be done by using 'var'. 'var' is a keyword following with a 'name_of_the_var' = something. 
+![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/328ffb6f-64a8-4bc8-93e2-f52379742f8d)
