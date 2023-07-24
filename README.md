@@ -12,6 +12,7 @@ The data types are as usual: numbers, strings and booleans.
 <br />
 Saving data can be done by using 'var'. 'var' is a keyword following with a 'name_of_the_var' = something. 
 ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/328ffb6f-64a8-4bc8-93e2-f52379742f8d)
-For the type 'string' we have some extensions that we can use: length, slice()
+For the type 'string' we have some extensions that we can use: length, slice(), toUpperCase()
 if we have var name = .... and we write name.length, it will print us the number of characters our string has. 
 if we have var name = .... and we use name.slice(0, 5), it will show the string from the first(0) position to, but not including, 5th position.
+if we have var name = .... and we use toUpperCase(), it will change the whole string to have only upper case characters.
