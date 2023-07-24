@@ -17,3 +17,4 @@ if we have var name = .... and we write name.length, it will print us the number
 if we have var name = .... and we use name.slice(0, 5), it will show the string from the first(0) position to, but not including, 5th position.
 if we have var name = .... and we use toUpperCase(), it will change the whole string to have only upper case characters.
 same principle goes for the toLowerCase. 
+![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/50ea615f-d995-48ac-bfd7-faddce1cb823)
