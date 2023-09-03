@@ -1,7 +1,7 @@
 # The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script
 <ol>
   <li><h1>Introduction to Java Script</h1>
-    <ol>
+    <ul>
       <li>Simple writing JS code in a Chrome browser by clicking the left button of the mouse on the browser, click 'Inspect', click 'Console' and write js code
       ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/73ba2f48-15a8-47ad-9cb1-17ddf7aa0111)</li>
       <br />
@@ -20,7 +20,11 @@
       same principle goes for the toLowerCase. 
       ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/50ea615f-d995-48ac-bfd7-faddce1cb823)</li>
       <br />
-    </ol>
+    </ul>
   </li>
-  Like most programing languages JS, has Math.random(), which gives us a random number to a variable. The number is between 0 - 0.9999999999999999 or 0 inclusive to 1 excluded.
+  <li><h1>Intermediate Java Script</h1>
+    <ul>
+      <li>Like most programing languages JS, has Math.random(), which gives us a random number to a variable. The number is between 0 - 0.9999999999999999 or 0 inclusive to 1 excluded.</li>
+    </ul>
+  </li>
 </ol>
