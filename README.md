@@ -18,4 +18,5 @@ if we have var name = .... and we use name.slice(0, 5), it will show the string 
 if we have var name = .... and we use toUpperCase(), it will change the whole string to have only upper case characters.
 same principle goes for the toLowerCase. 
 ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/50ea615f-d995-48ac-bfd7-faddce1cb823)
+<br />
 Like most programing languages JS, has Math.random(), which gives us a random number to a variable. The number is between 0 - 0.9999999999999999 or 0 inclusive to 1 excluded.
