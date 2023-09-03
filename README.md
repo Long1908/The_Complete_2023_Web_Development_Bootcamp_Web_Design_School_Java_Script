@@ -21,6 +21,8 @@
   <li><h1>Intermediate Java Script</h1>
     <ul>
       <li>Like most programing languages JS, has Math.random(), which gives us a random number to a variable. The number is between 0 - 0.9999999999999999 or 0 inclusive to 1 excluded.</li>
+      <li>In JS we have three types of comparators. The one we are going to look at is the "==" and "===". "===" checks not only if the value of two variables are equal, but their data type as well.
+      "==" checks only if the values are equal. So if we compare a number 1 and a string "1" with ==, it will return true. </li>
     </ul>
   </li>
 </ol>
