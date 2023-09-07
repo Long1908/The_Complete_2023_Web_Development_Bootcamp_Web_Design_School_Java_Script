@@ -23,6 +23,9 @@
       <li>Like most programing languages JS, has Math.random(), which gives us a random number to a variable. The number is between 0 - 0.9999999999999999 or 0 inclusive to 1 excluded.</li>
       <li>In JS we have three types of comparators. The one we are going to look at is the "==" and "===". "===" checks not only if the value of two variables are equal, but their data type as well.
       "==" checks only if the values are equal. So if we compare a number 1 and a string "1" with ==, it will return true. </li>
+      <li>Creating arrays in JS doesn't require you to specify how many elements are you gonna use or how many elements there is gnna be in the array. You can simply just write var name_of_the_array = 
+      [...,...,...,..........]. The array comes with built in functionallity as well, such as 'includes()' which searches if an element exist in the array.
+      ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script/assets/56315912/9bf70d97-f34a-46b0-ab6f-4e4e7c9d4ba2)</li>
     </ul>
   </li>
 </ol>
