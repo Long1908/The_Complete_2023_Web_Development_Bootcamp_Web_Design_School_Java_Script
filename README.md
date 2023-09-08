@@ -1,4 +1,4 @@
-# The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Script
+# The_Complete_2023_Web_Development_Bootcamp_Web_Design_School_Java_Scripta
 <ol>
   <li><h1>Introduction to Java Script</h1>
     <ul>
